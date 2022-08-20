@@ -1,0 +1,29 @@
+/* body{
+    background-color: black;
+}
+#canvas1{
+    border: 3px solid white;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    width: 800px;
+    height: 450px;
+    transform: translate(-50%, -50%);
+} */
+
+/* Raining */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow: hidden;
+    background-color: black;
+}
+#canvas1{
+    border: 2px solid white;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
